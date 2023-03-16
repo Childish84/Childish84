@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Childish84
 - 👀 I’m interested in old things
 - 🌱 I’m currently learning 68k asm
-- 💞️ I’m looking to collaborate on rom hacks
+- 💞️ I’m looking to collaborate on stuff and things
 - 📫 How to reach me nialldudley@gmail.com
 
 <!---
